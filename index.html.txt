@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>Welcome</h1>
+<p>together forword</p>
+
+</body>
+</html>
